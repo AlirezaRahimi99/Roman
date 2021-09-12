@@ -1,1 +1,6 @@
-text
+[
+  {
+    "nam": "ali",
+    "famili": "rahimi"
+  }
+]
